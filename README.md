@@ -16,7 +16,7 @@
 ## About Me
 
 <p align="center">
-  🎓 Mahasiswa Computer Science &nbsp;·&nbsp; 💻 Frontend Developer &nbsp;·&nbsp; <br/>
+  🎓 Computer Science Student &nbsp;·&nbsp; 💻 Frontend Developer &nbsp;·&nbsp; <br/>
   📍 Jakarta, Indonesia &nbsp;·&nbsp; <br/>
   💌 Let's connect and build something cool! 🎀
 </p>
@@ -64,4 +64,4 @@
   <img src="assets/divider.svg" width="100%" alt="divider" />
 </p>
 
-<p align="center"><i>Let's connect</i> 🌸</p>
+<p align="center"><i>Let's connect!</i> 🌸</p>
