@@ -38,8 +38,6 @@
 
 ## Featured Project
 
-<h2 align="center">✦ Featured Project ✦</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="500">
