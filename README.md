@@ -40,10 +40,6 @@
 
 <h2 align="center">✦ Featured Project ✦</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/FEATURED_PROJECT-f590d5?style=for-the-badge&labelColor=0d1117" />
-</div>
-
 <table align="center">
   <tr>
     <td align="center" width="500">
