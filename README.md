@@ -35,21 +35,15 @@
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=f590d5" alt="VS Code" />
 </p>
 
+
 ## Featured Project
 
-
-<h2 align="center">Featured Project</h2>
-
 <p align="center">
   <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshrecap&repo=portfolio-tailwind-css&theme=dark&hide_border=true&bg_color=0d1117&title_color=f590d5&icon_color=f590d5&text_color=c9d1d9" alt="Portfolio Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshrecap&repo=portfolio-tailwind-css&theme=dark&hide_border=true&bg_color=0d1117&title_color=f590d5&icon_color=f590d5&text_color=c9d1d9" alt="portfolio-tailwind-css" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-  </a>
-</p>
 
 
 ## Connect With Me
