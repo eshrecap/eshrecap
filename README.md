@@ -39,32 +39,32 @@
 ## Featured Project
 
 
-<h2 align="center">✦ Featured Project</h2>
 
-<table>
+<h2 align="center">✦ Featured Project ✦</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-f590d5?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<table align="center">
   <tr>
-    <td>
-      <h3>
-        <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-          ♡ Portfolio Website
-        </a>
-      </h3>
+    <td align="center" width="500">
+      <h3>♡ Portfolio Website</h3>
       <p>
         Personal portfolio website built with Tailwind CSS.
         A project showcasing my work, skills, and creativity.
       </p>
       <p>
-        <strong>Tech Stack:</strong>
+        <strong>Tech Stack</strong><br>
         HTML · CSS · Tailwind CSS
       </p>
-      <p>
-        <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-          ↗ View Repository
-        </a>
-      </p>
+      <a href="https://github.com/eshrecap/portfolio-tailwind-css">
+        <img src="https://img.shields.io/badge/View_Repository-f590d5?style=for-the-badge&logo=github&logoColor=0d1117" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
