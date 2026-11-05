@@ -38,11 +38,33 @@
 
 ## Featured Project
 
-<p align="center">
-  <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshrecap&repo=portfolio-tailwind-css&theme=dark&hide_border=true&bg_color=0d1117&title_color=f590d5&icon_color=f590d5&text_color=c9d1d9" alt="portfolio-tailwind-css" />
-  </a>
-</p>
+
+<h2 align="center">✦ Featured Project</h2>
+
+<table>
+  <tr>
+    <td>
+      <h3>
+        <a href="https://github.com/eshrecap/portfolio-tailwind-css">
+          ♡ Portfolio Website
+        </a>
+      </h3>
+      <p>
+        Personal portfolio website built with Tailwind CSS.
+        A project showcasing my work, skills, and creativity.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>
+        HTML · CSS · Tailwind CSS
+      </p>
+      <p>
+        <a href="https://github.com/eshrecap/portfolio-tailwind-css">
+          ↗ View Repository
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
