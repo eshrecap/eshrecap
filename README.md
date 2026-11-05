@@ -48,7 +48,6 @@
 
 <p align="center">
   <a href="https://github.com/eshrecap/portfolio-tailwind-css">
-    **View Portfolio Repository**
   </a>
 </p>
 
