@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🎀 I'm Sasi</h1>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Nur Rizka Sasi Kirana - Frontend Dev, Computer Science, ML" />
+  <img src="assets/banner.svg" width="100%" alt="Nur Rizka Sasi Kirana - Frontend Dev & Computer Science Student" />
 </p>
 
 <!--
